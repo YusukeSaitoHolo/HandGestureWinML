@@ -1,5 +1,5 @@
 # HandGestureWinML
-HoloLens2 で手の動作認識を行うサンプルです。
+HoloLens2 で, Windows.AI.MachineLearningを用いて手の動作認識を行うサンプルです。
 
 （認識動作：bloom, Throw up, bubble(huwahuwa), other）
 
